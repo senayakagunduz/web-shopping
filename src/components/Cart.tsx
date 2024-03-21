@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useAppSelector } from '../redux/hooks'
 import { RxCross1 } from 'react-icons/rx'
 import CartProduct from './CartProduct'

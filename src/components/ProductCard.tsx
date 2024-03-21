@@ -1,4 +1,3 @@
-import React from 'react'
 import { AiFillStar, AiOutlineStar, AiOutlineShoppingCart } from "react-icons/ai"
 import { useAppDispatch } from '../redux/hooks'
 import { addToCart } from '../redux/slice/cartSlice'
